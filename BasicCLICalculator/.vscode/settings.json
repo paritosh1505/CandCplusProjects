@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.feature": "cucumber",
+    "*.proto": "proto3",
+    "iostream": "cpp"
+  }
+}
